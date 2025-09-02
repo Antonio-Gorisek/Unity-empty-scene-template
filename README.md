@@ -5,8 +5,11 @@
 </div>
 
 # Addons Overview
+
+<div align='center'>
 A wide variety of assets, scripts and tools have been added to support any type of Unity project. <br>
 ⚠️ Remember to remove any unnecessary components before publishing your product.
+</div>
 
 ## Assets
 This repository contains popular and free assets that speeds up creating your project!
