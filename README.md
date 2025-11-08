@@ -8,7 +8,7 @@
 
 <div align='center'>
 A wide variety of assets, scripts and tools have been added to support any type of Unity project. <br>
-⚠️ Remember to remove any unnecessary components before publishing your product.
+⚠️ Remember to remove any unnecessary components before publishing your product. ⚠️
 </div>
 
 ## Assets
